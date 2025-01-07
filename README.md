@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Passionate Back-end Developer focused on building scalable and efficient solutions. Proficient in Python and Django, with a strong foundation in RESTful API development.</p>
+<p align="left">✨ Aspiring Cybersecurity Specialist with a keen interest in safeguarding digital systems and data. Currently studying cybersecurity to develop skills in identifying vulnerabilities, preventing threats, and ensuring robust security measures.</p>
 
 ###
 
