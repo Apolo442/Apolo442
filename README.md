@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Back-end Developer | Python | JavaScript |  PHP</p>
+<p align="center">Back-end Developer
 
 ###
 
