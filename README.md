@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Aspiring Cybersecurity Specialist with a keen interest in safeguarding digital systems and data. Currently studying cybersecurity to develop skills in identifying vulnerabilities, preventing threats, and ensuring robust security measures.</p>
+<p align="left">✨ Computer Engineering Student @ UNIFAN | Software Developer. Building fullstack projects with Python (Django, Pandas) and JavaScript (React, NextJS). Exploring data analysis and passionate about scalable code.</p>
 
 ###
 
