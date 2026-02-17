@@ -21,18 +21,11 @@
 
 ###
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apolo442&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apolo442&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" height="180" />
-</p>
-
-###
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apolo442&theme=radical" alt="Sequência de contribuições" height="180" />
-</p>
-
-###
+<div align="left">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Apolo442&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Apolo442&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Apolo442&theme=radical" alt="GitHub Streak" />
+</div>
 
 <h2 align="left">Knowledge in my skillset 💡</h2>
 
