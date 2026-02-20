@@ -23,7 +23,7 @@
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Apolo442&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Apolo442&layout=compact&langs_count=7&theme=radical&v=1" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Apolo442&layout=compact&langs_count=7&hide=python&theme=radical&v=1" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Apolo442&theme=radical" alt="GitHub Streak" />
 </div>
 
