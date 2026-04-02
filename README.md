@@ -11,8 +11,7 @@
 ###
 
 <p align="left">
-  ✨ Bacharel em Engenharia da Computação. Desenvolvedor Fullstack experiente em Python (Django), Java e ecossistema JavaScript (React, NextJS). 
-  Atualmente focado em criar soluções inteligentes unindo LLMs (Gemini API), automação (N8N) e infraestrutura robusta.
+✨ Bacharel em Engenharia de Computação. Engenheiro de Software com perfil Full Stack, atuando em integração de sistemas, automação e Inteligência Artificial. Experiência com ecossistema JavaScript (React, Next.js), Python, Java e infraestrutura com Docker/Linux. Atualmente focado em construir soluções inteligentes com LLMs, automação (n8n) e arquiteturas escaláveis.
 </p>
 
 ###
