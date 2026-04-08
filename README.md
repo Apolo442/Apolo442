@@ -6,8 +6,6 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Apolo442&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="420"/>
-
 ### Hey, I'm Mateus 👋
 
 Computer Engineer with a solid **Full Stack** profile — specializing in systems integration, workflow automation, and AI.
@@ -67,12 +65,9 @@ My core belief: the most valuable skill is **abstracting complex problems**, not
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| **[Open Finance AI + ESG](https://github.com/Apolo442/Open-Finance-ETL)** | Open Finance ecosystem with **Medallion architecture** (Bronze→Silver→Gold), AI-powered credit scoring and automated ESG scoring via semantic analysis | `n8n` `Docker` `PostgreSQL` `Vertex AI` `Nginx` | — |
-| **[Finance Dashboard](https://github.com/Apolo442/finance-app)** | Personal finance manager — monthly entry/reserve tracking, fixed expenses, installments, analytics charts, dark/light theme with localStorage persistence | `Next.js 14` `TypeScript` `Supabase` `Prisma` `Recharts` | **[Live ↗](https://finance-app-eight-ruddy.vercel.app)** |
-| **[SmartPharma ERP](https://github.com/Apolo442/pharma-erp)** | Full pharmacy management system with POS, cashier queue, multi-payment support, role-based access control and soft-delete for audit trails | `Next.js` `TypeScript` `SQLite` `Prisma` `Zod` | **[Docs ↗](https://apolo442.github.io/pharma-erp/)** |
-| **[Shopee Review Auditor](https://github.com/Apolo442/shopee-review-auditor)** | Chrome extension intercepting native fetch calls to capture hidden API JSONs — real-time sanitization, statistical audit and AI-ready prompt export | `JavaScript` `Manifest V3` `DOM Injection` | — |
-| **[BCB ETL Pipeline](https://github.com/Apolo442/ETL-de-Indicadores-do-Banco-Central)** | Automated daily ETL extracting SELIC, IPCA and USD rates from Brazil's Central Bank API, structured with Pandas and containerized in Docker | `Python` `Pandas` `Docker` `Schedule` | — |
-| **[ATS Resume Generator](https://github.com/Apolo442/ats-resume-generator-html)** | Free open-source ATS-optimized resume builder — JSON-driven, HTML-rendered, PDF-exported via Playwright. No subscriptions, no watermarks | `JavaScript` `Node.js` `Playwright` | **[↗ atsflow.xyz](https://atsflow.xyz)** |
+| **[Open Finance AI + ESG](https://github.com/Apolo442/Open-Finance-ETL)** | Open Finance ecosystem with **Medallion architecture** (Bronze→Silver→Gold), AI-powered credit scoring and automated ESG scoring via semantic analysis | `n8n` `Docker` `PostgreSQL` `Vertex AI` `Nginx` | — **[Repo Link ↗](https://github.com/Apolo442/Open-Finance-ETL)** |
+| **[Shopee Review Auditor](https://github.com/Apolo442/shopee-review-auditor)** | Chrome extension intercepting native fetch calls to capture hidden API JSONs — real-time sanitization, statistical audit and AI-ready prompt export | `JavaScript` `Manifest V3` `DOM Injection` | **[Chrome Store ↗](https://chromewebstore.google.com/detail/shopee-review-auditor-by/oeigipbbjopmhaimfcpcmgddbbfhakfn)** |
+| **[BotFinanças — Autonomous Agent](https://github.com/Apolo442)** | Autonomous financial agent with "Invisible UI" via Telegram — processes natural language with Gemini, generates real-time dashboards and persists data in Google Sheets | `n8n` `Gemini` `Telegram API` `Google Sheets` `QuickChart` | — |
 
 ---
 
@@ -80,7 +75,14 @@ My core belief: the most valuable skill is **abstracting complex problems**, not
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apolo442&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Apolo442&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Apolo442&layout=compact&langs_count=7&theme=radical&v=1" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Apolo442&theme=radical"/>
 
 </div>
 
@@ -90,13 +92,10 @@ My core belief: the most valuable skill is **abstracting complex problems**, not
 
 ```
 Engenheiro de Infraestrutura (Estágio) @ União Médica       Dec 2025 – Feb 2026
-  ↳ Open Finance + Medallion ETL · Vertex AI · Docker · n8n
 
 Analytics & Automation Engineer (Volunteer) @ H2M Data      Aug 2025 – Jan 2026
-  ↳ Data pipelines · Cloud infra (Linux/Docker) · Webhook integrations
 
 Developer (Freelancer)                                       Sep 2023 – Present
-  ↳ End-to-end MVPs · AI integrations · Process automation
 ```
 
 ---
